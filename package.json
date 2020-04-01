@@ -1,5 +1,5 @@
 {
-  "name": "weakindex",
+  "name": "weak-index",
   "version": "0.1.0",
   "description": "weakly assign ids to tuples of objects",
   "main": "index.js",
