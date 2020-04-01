@@ -1,0 +1,12 @@
+{
+  "name": "weakindex",
+  "version": "0.1.0",
+  "description": "weakly assign ids to tuples of objects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node example",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Burns",
+  "license": "ISC"
+}
